@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
 [![Pygame Version](https://img.shields.io/badge/pygame-2.0%2B-green)](https://www.pygame.org/)
 [![License](https://img.shields.io/badge/license-MIT-orange)](LICENSE)
-[![Status](https://img.shields.io/badge/status-stable-brightgreen)](https://github.com/yourusername/escape-the-maze)
+[![Status](https://img.shields.io/badge/status-stable-brightgreen)](https://github.com/aimanazuman/python-escape-the-maze-game)
 
 A 2D grid-based maze game with intelligent AI enemies inspired by classic arcade games like Pac-Man. Navigate through challenging mazes, collect stars, avoid enemies, and escape before time runs out!
 
@@ -525,9 +525,9 @@ This is an academic project, but suggestions and improvements are welcome!
 
 ## 📞 Contact
 
-**Project Link:** [https://github.com/yourusername/escape-the-maze](https://github.com/aimanazuman/escape-the-maze)
+**Project Link:** [https://github.com/yourusername/escape-the-maze](https://github.com/aimanazuman/python-escape-the-maze-game)
 
-**Issues:** [https://github.com/yourusername/escape-the-maze/issues](https://github.com/aimanazuman/escape-the-maze/issues)
+**Issues:** [https://github.com/yourusername/escape-the-maze/issues](https://github.com/aimanazuman/python-escape-the-maze-game/issues)
 
 **Email:** contact.aiman.azman@gmail.com
 
