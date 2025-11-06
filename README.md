@@ -481,7 +481,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Developer:** Aiman Azman
 - **Course:** SWC3643 - Python Programming Language
 - **Institution:** Universiti Poly Tech Malaysia
-- **Academic Year:** 2024/2025
+- **Academic Year:** 2025
 
 ### Inspiration
 - **Pac-Man** (Namco, 1980) - Enemy AI behavior
@@ -525,11 +525,11 @@ This is an academic project, but suggestions and improvements are welcome!
 
 ## 📞 Contact
 
-**Project Link:** [https://github.com/yourusername/escape-the-maze](https://github.com/yourusername/escape-the-maze)
+**Project Link:** [https://github.com/yourusername/escape-the-maze](https://github.com/aimanazuman/escape-the-maze)
 
-**Issues:** [https://github.com/yourusername/escape-the-maze/issues](https://github.com/yourusername/escape-the-maze/issues)
+**Issues:** [https://github.com/yourusername/escape-the-maze/issues](https://github.com/aimanazuman/escape-the-maze/issues)
 
-**Email:** your.email@university.edu
+**Email:** contact.aiman.azman@gmail.com
 
 ---
 
