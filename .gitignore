@@ -1,0 +1,9 @@
+# Default ignored directory
+/.idea
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Pycache file
+/__pycache__
